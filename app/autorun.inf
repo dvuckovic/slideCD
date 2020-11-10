@@ -1,0 +1,4 @@
+[autorun]
+label=slideCD
+open=autorun.exe
+icon=slideCD\icon.ico
